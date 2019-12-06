@@ -398,7 +398,9 @@ button {
   cursor: pointer; }
 
 a img {
-  border: none; }
+  border: none;
+image-orientation: center; 
+}
 
 img {
   max-width: 100%;

@@ -5,9 +5,6 @@
 * -------------
 */
 
-body {
-  /* Default font family and font color */
-}
 
 p, li, textarea, label, input, select {
   font-family: Poppins;
@@ -74,7 +71,7 @@ h6 {
   color: #ffffff;
 }
 
-contact-title {
+.contact-title {
   font-family: Poppins;
   font-size: 16px;
   font-weight: normal;
@@ -82,7 +79,7 @@ contact-title {
   color: #ffffff;
 }
 
-contact-text {
+.contact-text {
   font-family: Poppins;
   font-size: 16px;
   font-weight: normal;
@@ -90,16 +87,7 @@ contact-text {
   color: #231f20;
 }
 
-
-a {
-  /* Link color */
-}
-
-a:hover {
-  /* Link color on mouse over */
-}
-
-button {
+.button {
   font-family: Poppins;
   font-size: 20px;
   font-weight: bold;
@@ -107,7 +95,7 @@ button {
   color: #ffffff;
 }
 
-button2 {
+.button2 {
   font-family: Poppins;
   font-size: 20px;
   font-weight: bold;
@@ -115,7 +103,7 @@ button2 {
   color: #fcce00;
 }
 
-button3 {
+.button3 {
   font-family: Poppins;
   font-size: 20px;
   font-weight: bold;
