@@ -170,10 +170,8 @@ h6 {
   display: flex;
 }
 
-.slideshow {
-  display: flex;
-  box-sizing: content-box;
-  width: 100%;
+.split {
+max-width: 50%;
 }
 
 .Rectangle {
@@ -192,7 +190,7 @@ h6 {
 }
 
 .mask {
-  background: linear-gradient( #fcce00, #fcce00 50%, #fcce00 30%, #ffffff);
+  background-image: linear-gradient( #fcce00, #fcce00 50%, #fcce00 30%, #ffffff);
 }
 
 /**
