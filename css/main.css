@@ -86,11 +86,26 @@ a:hover {
 button {
   font-family: Poppins;
   font-size: 20px;
-  font-weight: 900;
-  text-align: bold;
+  font-weight: bold;
+  text-align: center;
   color: #ffffff;
 }
 
+button2 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #fcce00;
+}
+
+button3 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #ff6b00;
+}
 
 /**
 * ------
