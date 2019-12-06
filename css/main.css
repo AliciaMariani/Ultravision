@@ -16,15 +16,27 @@ p, li, textarea, label, input, select {
 
 
 h1 {
-   /* Default font, size, and margins */
+font-family: Poppins;
+font-size: 88px;
+font-weight: 900;
+text-align: center;
+color: #ffffff;
 }
 
 h2 {
-  /* Default font, size, and margins */
+  font-family: Poppins;
+  font-size: 53px;
+  font-weight: 900;
+  text-align: center;
+  color: #ffffff;
 }
 
 h3 {
-  /* Default font, size, and margins */
+  font-family: Poppins;
+  font-size: 56px;
+  font-weight: 900;
+  text-align: center;
+  color: #black;
 }
 
 h4 {
@@ -63,3 +75,12 @@ a:hover {
 * Components
 * ----------
 */
+
+
+
+/**
+* ----------
+* Ajouts Persos
+* ----------
+*/
+
