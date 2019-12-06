@@ -11,6 +11,8 @@
   font-size: 16px;
   font-weight: normal;
   text-align: justify;
+  margin-right: 32px;
+  margin-left: 48px;
   color: #231f20;
 }
 
@@ -52,6 +54,8 @@ h4 {
   font-size: 24px;
   font-weight: bold;
   text-align: center;
+  margin-top: 64px;
+  margin-right: 249px;
   color: #231f20;
 }
 
@@ -164,6 +168,31 @@ h6 {
 
 .box {
   display: flex;
+}
+
+.slideshow {
+  display: flex;
+  box-sizing: content-box;
+  width: 100%;
+}
+
+.Rectangle {
+  width: 1440px;
+  height: 2229px;
+  background-color: #231f20;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.Rectangle-element {
+  position: relative;
+}
+
+.mask {
+  background: linear-gradient( #fcce00, #fcce00 50%, #fcce00 30%, #ffffff);
 }
 
 /**

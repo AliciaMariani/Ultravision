@@ -404,7 +404,10 @@ image-orientation: center;
 
 img {
   max-width: 100%;
-  height: auto; }
+  height: auto; 
+  object-fit: contain;
+  mix-blend-mode: normal;
+}
 
 hr {
   border: none;
