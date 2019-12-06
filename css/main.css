@@ -17,6 +17,13 @@ p, li, textarea, label, input, select {
   color: #231f20;
 }
 
+text {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: justify;
+  color: #ffffff;
+}
 
 
 h1 {
@@ -52,11 +59,19 @@ h4 {
 }
 
 h5 {
-  /* Default font, size, and margins */
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 900;
+  text-align: center;
+  color: #ffffff;
 }
 
 h6 {
-  /* Default font, size, and margins */
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  color: #ffffff;
 }
 
 
