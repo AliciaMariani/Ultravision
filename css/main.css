@@ -87,6 +87,25 @@ h6 {
   color: #231f20;
 }
 
+.grille-element {
+  position: relative;
+}
+
+
+.grille-element:hover .grille-content {
+  opacity: 1;
+}
+
+.grille-content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0,0,0,.7);
+  opacity: 0;
+}
+
 .grille-sub-title {
   font-family: Poppins;
   font-size: 14px;
