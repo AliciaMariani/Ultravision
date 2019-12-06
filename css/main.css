@@ -6,7 +6,7 @@
 */
 
 
-p, li, textarea, label, input, select {
+p {
   font-family: Poppins;
   font-size: 16px;
   font-weight: normal;
