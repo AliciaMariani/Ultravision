@@ -74,6 +74,22 @@ h6 {
   color: #ffffff;
 }
 
+contact-title {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  text-align: left;
+  color: #ffffff;
+}
+
+contact-text {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  text-align: left;
+  color: #231f20;
+}
+
 
 a {
   /* Link color */
