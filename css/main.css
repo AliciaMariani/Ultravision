@@ -84,7 +84,11 @@ a:hover {
 }
 
 button {
-  /* Link color */
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 900;
+  text-align: bold;
+  color: #ffffff;
 }
 
 
