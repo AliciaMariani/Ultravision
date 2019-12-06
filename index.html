@@ -11,6 +11,7 @@
   <link rel="apple-touch-icon" href="./img/favicon.png">
   <link rel="stylesheet" href="./css/reset.css">
   <link rel="stylesheet" href="./css/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 </head>
 <body>
   <h1 class="title">ULTRAVISION</h1>
@@ -127,50 +128,26 @@
 
   <h6 class="sub-title">Contact</h6>
 
-  <contact-title class="sub-title">Name</contact-title>
-  <contact-text class="sub-title">Clément Plou</contact-text>
-
-  <contact-title class="sub-title">Subjet</contact-title>
-  <contact-text class="sub-title">Billing questions</contact-text>
-
-  <contact-title class="sub-title">Email</contact-title>
-  <contact-text class="sub-title">clement@plou.io</contact-text>
-
-  <contact-title class="sub-title">Message</contact-title>
-  <contact-text class="sub-title">In quis luctus nibh, vel iaculis nisl. Nam lobortis turpis eget nibh mollis aliquet. Nam sodales elit id erat aliquam, sed tristique diam consequat.</contact-text>
-
-  <ul>
-    <li>Lorem</li>
-    <li>Lorem, ipsum dolor.</li>
-    <li>Lorem ipsum dolor sit.</li>
-    <li>Lorem, ipsum.</li>
-    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, vitae?</li>
-  </ul>
-  
-  <a class="button" href="#">A button!</a>
-
   <div class="form-row">
-    <label for="name">First Name</label>
-    <input type="text" name="name" id="name">
+    <label for="name">Name</label>
+    <input type="text" name="name" id="contact-text" value="Clément Plou">
   </div>
   
+  <div class="form-row">
+      <label for="subject">Subject</label>
+      <select name="subject" id="subject">
+        <option value="Billing">Billing question</option>
+      </select>
+  </div>
+
   <div class="form-row">
     <label for="email">Email adress</label>
-    <input type="email" name="email" id="email">
-  </div>
-  
-  <div class="form-row">
-    <label for="subject">Subject</label>
-    <select name="subject" id="subject">
-      <option value="Billing">Billing question</option>
-      <option value="Delivery">Delivery enquiries</option>
-      <option value="Other">…</option>
-    </select>
+    <input type="email" name="email" id="contact-text" value="clement@plou.io">
   </div>
     
   <div class="form-row">
     <label for="message">Message</label>
-    <input type="textarea" name="message" id="message">
+    <input type="textarea" name="message" id="contact-text" value="In quis luctus nibh, vel iaculis nisl. Nam lobortis turpis eget nibh mollis aliquet. Nam sodales elit id erat aliquam, sed tristique diam consequat.">
   </div>
 
 
