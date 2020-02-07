@@ -99,6 +99,7 @@ color: #231f20;
 
 .grille-element {
 position: relative;
+margin: 16px;
 }
 
 
@@ -114,6 +115,8 @@ bottom: 0;
 left: 0;
 background-color: rgba(0,0,0,.7);
 opacity: 0;
+border-radius: 15px;
+padding: 10px;
 }
 
 .grille-sub-title {
@@ -298,12 +301,6 @@ height: 8px;
 mix-blend-mode: darken;
 }
 
-.padding_img{
-padding-left: 32px;
-padding-right: 32px;
-padding-bottom: 32px;
-padding-top: 32px;
-}
 
 /**
 * ------
