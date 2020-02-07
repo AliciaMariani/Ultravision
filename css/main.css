@@ -13,6 +13,7 @@ font-weight: normal;
 text-align: justify;
 margin-right: 32px;
 margin-left: 48px;
+margin-bottom: 42px;
 color: #231f20;
 }
 
@@ -22,6 +23,7 @@ font-size: 24px;
 font-weight: normal;
 text-align: justify;
 color: #ffffff;
+margin-left: 44px;
 }
 
 
@@ -151,6 +153,7 @@ font-size: 20px;
 font-weight: bold;
 text-align: left;
 color: #ffffff;
+margin-left: 44px;
 }
 
 .button2 {
@@ -159,6 +162,7 @@ font-size: 20px;
 font-weight: bold;
 text-align: right;
 color: #fcce00;
+margin-left: 539px;
 }
 
 .button3 {
@@ -167,6 +171,8 @@ font-size: 20px;
 font-weight: bold;
 text-align: right;
 color: #ff6b00;
+margin-left: 524px;
+margin-top: 42px;
 }
 
 .box {
