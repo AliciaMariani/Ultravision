@@ -38,21 +38,21 @@ margin: 0px 0px 0px 0px;
 }
 
 h2 {
-  font-family: Poppins;
-  font-size: 38px;
-  font-weight: 900;
-  text-align: center;
-  color: #ffffff;
-  background-color: #ff6b00;
-  margin: 0px 0px 0px 0px;
+font-family: Poppins;
+font-size: 38px;
+font-weight: 900;
+text-align: center;
+color: #ffffff;
+background-color: #ff6b00;
+margin: 0px 0px 0px 0px;
 }
 
 h3 {
-  font-family: Poppins;
-  font-size: 40px;
-  font-weight: 900;
-  text-align: center;
-  color: #231f20;
+font-family: Poppins;
+font-size: 40px;
+font-weight: 900;
+text-align: center;
+color: #231f20;
 }
 
 h4 {
@@ -103,7 +103,7 @@ margin: 16px;
 }
 
 .box:last-child .grille-element {
-  margin-bottom: 0;
+margin-bottom: 0;
 }
 
 .liste {
@@ -227,30 +227,30 @@ color: #ffffff;
 }
 
 .split4 {
-  display: flex;
-  flex-basis: 0;
-  flex-grow: 1;
-  background-image: linear-gradient( #b620e0, transparent);
-  mix-blend-mode: darken;
-  color: #ffffff;
-  }
+display: flex;
+flex-basis: 0;
+flex-grow: 1;
+background-image: linear-gradient( #b620e0, transparent);
+mix-blend-mode: darken;
+color: #ffffff;
+}
 
 .split5 {
-    display: flex;
-    flex-basis: 0;
-    flex-grow: 1;
-    background-image: linear-gradient( #6236ff, transparent);
-    mix-blend-mode: darken;
-    color: #ffffff;
-    }
+display: flex;
+flex-basis: 0;
+flex-grow: 1;
+background-image: linear-gradient( #6236ff, transparent);
+mix-blend-mode: darken;
+color: #ffffff;
+}
 
 .split6 {
-    background-image: #231f20;
-    background-color: #231f20;
-    mix-blend-mode: darken;
-    color: #ffffff;
-    padding-top: 64px;
-    }
+background-image: #231f20;
+background-color: #231f20;
+mix-blend-mode: darken;
+color: #ffffff;
+padding-top: 64px;
+}
 
 .split div {
 flex-basis: 0;
