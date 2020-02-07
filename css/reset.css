@@ -404,9 +404,8 @@ image-orientation: center;
 
 img {
   max-width: 100%;
-  height: auto; 
-  object-fit: contain;
-  mix-blend-mode: normal;
+  height: auto;
+  image-orientation: center;
 }
 
 hr {
