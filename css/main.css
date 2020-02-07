@@ -78,7 +78,7 @@ font-size: 40px;
 font-weight: 900;
 text-align: center;
 color: #ffffff;
-padding-top: 64px;
+margin: 0px 0px 64px 0px;
 }
 
 .contact-title {
@@ -125,6 +125,7 @@ font-size: 14px;
 font-weight: normal;
 text-align: center;
 color: #ffffff;
+padding-top: 16px;
 }
 
 .grille-title {
@@ -133,6 +134,7 @@ font-size: 32px;
 font-weight: bold;
 text-align: center;
 color: #fcce00;
+padding-top: 8px;
 }
 
 .grille-title2 {
@@ -149,6 +151,7 @@ font-size: 16px;
 font-weight: normal;
 text-align: center;
 color: #ffffff;
+padding-top: 32px;
 }
 
 .button {
@@ -238,6 +241,7 @@ color: #ffffff;
     background-color: #231f20;
     mix-blend-mode: darken;
     color: #ffffff;
+    padding-top: 64px;
     }
 
 .split div {
