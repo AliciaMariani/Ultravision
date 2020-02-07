@@ -102,6 +102,14 @@ position: relative;
 margin: 16px;
 }
 
+.box:last-child .grille-element {
+  margin-bottom: 0;
+}
+
+.liste {
+margin-bottom: 64px;
+}
+
 
 .grille-element:hover .grille-content {
 opacity: 1;
