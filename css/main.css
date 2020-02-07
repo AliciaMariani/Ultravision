@@ -31,6 +31,7 @@ font-size: 88px;
 font-weight: 900;
 text-align: center;
 color: #ffffff;
+background-color: #fcce00;
 }
 
 h2 {
@@ -39,6 +40,7 @@ h2 {
   font-weight: 900;
   text-align: center;
   color: #ffffff;
+  background-color: #ff6b00;
 }
 
 h3 {
@@ -213,6 +215,26 @@ flex-grow : 1;
 background-image: linear-gradient(#fcce00, transparent);
 padding : 41px 16px 0px 0px;
 }
+
+.rectangle_rouge {
+background-color: #e02020;
+height: 32px;
+}
+
+.rectangle_violet {
+  background-color: #b620e0;
+  height: 16px;
+  }
+
+  .rectangle_blanc {
+    background-color: #ffffff;
+    height: 8px;
+    }
+
+    .rectangle_mauve {
+      background-color: #6236ff;
+      height: 8px;
+      }
 
 /**
 * ------
