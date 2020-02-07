@@ -185,8 +185,30 @@ margin: 0px 0px 64px 0px;
 
 .split3 {
 display: flex;
-margin: 0px 0px 64px 0px;
+flex-basis: 0;
+flex-grow: 1;
+background-image: linear-gradient( #e02020, transparent);
+mix-blend-mode: darken;
+color: #ffffff;
 }
+
+.split4 {
+  display: flex;
+  flex-basis: 0;
+  flex-grow: 1;
+  background-image: linear-gradient( #b620e0, transparent);
+  mix-blend-mode: darken;
+  color: #ffffff;
+  }
+
+.split5 {
+    display: flex;
+    flex-basis: 0;
+    flex-grow: 1;
+    background-image: linear-gradient( #6236ff, transparent);
+    mix-blend-mode: darken;
+    color: #ffffff;
+    }
 
 .split div {
 flex-basis: 0;
