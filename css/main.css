@@ -213,8 +213,12 @@ background-image: linear-gradient( #fcce00, #fcce00 50%, #fcce00 30%, #ffffff);
 }
 
 .mask2 {
-  background-image: linear-gradient( #ff6b00, #ff6b00 50%, #ff6b00 30%, #ffffff);
-  }
+background-image: linear-gradient( #ff6b00, #ff6b00 50%, #ff6b00 30%, #ffffff);
+}
+
+.mask3 {
+background-image: linear-gradient( #e02020, #e02020 50%, #e02020 30%, #ffffff);
+}
 
 .fond_color {
 background-image: linear-gradient(#fcce00, transparent);
