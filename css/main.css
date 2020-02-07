@@ -172,7 +172,18 @@ h6 {
 
 .split {
 display: flex;
+margin: 0px 0px 64px 0px;
 }
+
+.split2 {
+  display: flex;
+  margin: 0px 0px 64px 0px;
+  }
+
+  .split3 {
+    display: flex;
+    margin: 0px 0px 64px 0px;
+    }
 
 .split div {
 flex-basis: 0;
@@ -196,6 +207,11 @@ flex-grow : 1;
 
 .mask {
   background-image: linear-gradient( #fcce00, #fcce00 50%, #fcce00 30%, #ffffff);
+}
+
+.fond_color {
+background-image: linear-gradient(#fcce00, transparent);
+padding : 41px 16px 0px 0px;
 }
 
 /**
